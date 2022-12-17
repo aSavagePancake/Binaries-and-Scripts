@@ -1,0 +1,1 @@
+Clear Event Viewer v3.1 is a modified version of Clear_Event_Viewer_Logs.bat originally created by Shawn Brink @ tenforums
