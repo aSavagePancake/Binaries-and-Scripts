@@ -1,0 +1,1 @@
+Nvidia Ansel Config v4.5 is a modified version of Ansel Config.cmd originally created by u/ITtLEaLLen
