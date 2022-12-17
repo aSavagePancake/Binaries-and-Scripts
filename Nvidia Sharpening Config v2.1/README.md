@@ -1,0 +1,1 @@
+Nvidia Sharpening Config v2.1 is a script I wrote after finding out u/diceman2037 had shared the original registry key on reddit (https://www.reddit.com/r/nvidia/comments/s3sas9/comment/hsza1ah/)
