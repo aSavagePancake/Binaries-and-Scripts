@@ -1,2 +1,2 @@
 # Binaries-and-Scripts
-Personal Batch Files &amp; Compiled Binaries
+Personal Scripts & Compiled Binaries 
