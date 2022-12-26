@@ -1,0 +1,1 @@
+Fresh App Installer v2.1 was created by myself to automate the installation of Scoop (www.Scoop.ph) & the installation of apps (using FreshAppList.txt) on a clean Windows install 
