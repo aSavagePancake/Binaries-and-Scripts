@@ -1,1 +1,0 @@
-Choco App Installer v1.0 was created by myself to automate the installation of Chocolatey (https://chocolatey.org/) & the batch installation of apps (using ChocoAppList.txt) on a clean Windows install 
